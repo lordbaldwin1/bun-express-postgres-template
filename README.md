@@ -1,4 +1,5 @@
-# server
+# bun + express + postgres + drizzle + jwt auth template
+## For my personal use
 
 To install dependencies:
 
